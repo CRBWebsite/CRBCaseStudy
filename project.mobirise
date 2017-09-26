@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Snapshots",
     "name": "CRB 2017",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 46,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.3.0",
     "favicon": "@PROJECT_PATH@/assets/images/images-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -97,6 +97,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-9",
           "_params": {
             "showImages": true,
@@ -207,12 +212,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1767,7 +1767,7 @@
                 "alt": ""
               },
               {
-                "tags": "CRB 2014",
+                "tags": "CRB 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1822,7 +1822,7 @@
                 "alt": ""
               },
               {
-                "tags": "CRB 2016",
+                "tags": "CRB 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1859,17 +1859,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1500.jpg",
-                "caption": "Surfers of Puraran",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "CRB 2016",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dscn5831-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dscn5831-2000x1500.jpg",
                 "caption": "Majestic Puraran Beach Resort",
@@ -1895,18 +1884,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6-2000x1500.jpg",
                 "caption": "Memories of CRB 2015 Displayed at Cafe De Au",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "CRB 2016",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
-                "caption": "Welcome to Catanduanes",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -1949,7 +1927,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752-800x426.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752.jpg",
-                "caption": "Jeck Pilapil",
+                "caption": "Jeck Pilpil",
                 "active": false,
                 "alt": ""
               },
@@ -2024,17 +2002,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
-                "caption": "Interview with Vice Chair Vincent Villaluna",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Interviews",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-7-2000x1500.jpg",
                 "caption": "Interview with Pastor Genesis Efondo",
@@ -2049,7 +2016,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-9-2000x1500.jpg",
                 "caption": "&nbsp;Interivew with Vice Governor Shy Abundo",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
