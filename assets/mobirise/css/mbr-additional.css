@@ -502,7 +502,7 @@ h6,
 #header3-o SMALL {
   font-family: 'Lora', serif;
 }
-#features3-15 H5 {
+#features3-1c H5 {
   text-align: center;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -666,7 +666,7 @@ h6,
 #header3-16 SMALL {
   font-family: 'Lora', serif;
 }
-#features3-17 H5 {
+#features3-1d H5 {
   text-align: center;
 }
 
@@ -685,7 +685,7 @@ h6,
 #header3-18 SMALL {
   font-family: 'Lora', serif;
 }
-#features3-19 H5 {
+#features3-1e H5 {
   text-align: center;
 }
 #menu-x .hide-buttons .nav-btn {
@@ -822,73 +822,6 @@ h6,
 #menu-d .close-icon::after {
   background-color: #ffffff;
 }
-#menu-x .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-x .navbar-caption {
-  color: #ffffff;
-}
-#menu-x .navbar-toggler {
-  color: #ffffff;
-}
-#menu-x .link,
-#menu-x .dropdown-item {
-  color: #ffffff;
-}
-#menu-x .link {
-  font-size: 0.6rem;
-}
-#menu-x .dropdown-item,
-#menu-x .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#menu-x .link:hover,
-#menu-x .dropdown-item:hover,
-#menu-x .link:focus,
-#menu-x .dropdown-item:focus {
-  color: #f1e718;
-}
-#menu-x .link[aria-expanded="true"],
-#menu-x .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-x .nav-dropdown-sm .link:focus,
-#menu-x .nav-dropdown-sm .link:hover,
-#menu-x .nav-dropdown-sm .dropdown-item:focus,
-#menu-x .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-x .navbar,
-#menu-x .nav-dropdown-sm,
-#menu-x .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-x .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-x .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-x .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-x .bg-color.transparent.opened .link:hover,
-#menu-x .bg-color.transparent.opened .link:focus {
-  color: #f1e718;
-}
-#menu-x .link[aria-expanded="true"],
-#menu-x .dropdown-item[aria-expanded="true"] {
-  color: #f1e718!important;
-}
-#menu-x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-x .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-x .close-icon::before,
-#menu-x .close-icon::after {
-  background-color: #ffffff;
-}
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
@@ -903,4 +836,12 @@ h6,
 }
 #msg-box3-14 .lead P {
   text-align: center;
+}
+
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f SMALL {
+  font-family: 'Lora', serif;
 }
