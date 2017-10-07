@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Snapshots",
+    "currentPage": "CRB 2016",
     "name": "CRB 2017",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 52,
     "versionPublish": "4.3.0",
     "favicon": "@PROJECT_PATH@/assets/images/images-128x128.png",
     "noImageResize": "",
@@ -127,14 +127,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2014-.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "How It All Started.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "How It All Started",
@@ -143,14 +142,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vhince.gif",
+              "src": "@PROJECT_PATH@/assets/images/crb2016-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title2": "Catanduanes Reef Break 2016",
@@ -159,14 +157,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cthi.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Catanduanes The Happy Island.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title3": "Catanduanes",
@@ -175,14 +172,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Snapshots.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title4": "Gallery",
@@ -304,7 +300,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRB 2016: A Case Study</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Snapshots.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6P's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Placement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Passion</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -456,50 +452,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2014-.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "How It All Started.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vhince.gif",
+              "src": "@PROJECT_PATH@/assets/images/crb2016-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cthi.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Catanduanes The Happy Island.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Snapshots.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -551,7 +543,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features3-15"
+          "_anchor": "features3-1c"
         },
         {
           "_name": "footer1",
@@ -639,7 +631,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Snapshots.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6P's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Placement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Passion</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -743,7 +735,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Snapshots.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6P's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Placement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Passion</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -817,38 +809,35 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jayson.gif",
+              "src": "@PROJECT_PATH@/assets/images/jayson-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016#msg-box7-p",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/genesis.gif",
+              "src": "@PROJECT_PATH@/assets/images/genesis-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016#msg-box7-r",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vhince.gif",
+              "src": "@PROJECT_PATH@/assets/images/vhince-.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016#msg-box7-s",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -915,7 +904,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "61",
             "paddingTop": "4",
@@ -944,7 +933,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/KknDtUt9CFE",
+              "src": "https://youtu.be/8jYQ-0__FZw",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -957,7 +946,7 @@
           },
           "title": "Jayson Tayamora",
           "text": "Know the prespective of CRB 2016's Director<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
           "_tags": [
             "Theme"
           ],
@@ -974,7 +963,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "61",
             "paddingTop": "4",
@@ -1003,7 +992,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/jhLGb2Kje7Q",
+              "src": "https://youtu.be/sb3PvBkkWmA",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1016,7 +1005,7 @@
           },
           "title": "Genesis Efondo",
           "text": "Ezra's brother who continued the legacy of Catanduanes Reef Break",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
           "_tags": [
             "Theme"
           ],
@@ -1033,7 +1022,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "61",
             "paddingTop": "4",
@@ -1075,7 +1064,7 @@
           },
           "title": "Vincent Villaluna",
           "text": "As the provincial Board Member of East District of Catanduanes and Vice Chair for Tourism Committee, Mr. Villaluna shares his perspective for sustainable tourism events like Catanduanes Reef Break",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Facing the Challenges\" data-toolbar=\"-mbrBtnMove\">Click here for Bio</a>",
           "_tags": [
             "Theme"
           ],
@@ -1131,50 +1120,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2014-.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "How It All Started.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vhince.gif",
+              "src": "@PROJECT_PATH@/assets/images/crb2016-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cthi.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Catanduanes The Happy Island.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Snapshots.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -1226,7 +1211,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features3-17"
+          "_anchor": "features3-1d"
         },
         {
           "_name": "footer1",
@@ -1395,50 +1380,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2014-.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "How It All Started.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vhince.gif",
+              "src": "@PROJECT_PATH@/assets/images/crb2016-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "CRB 2016.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cthi.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Catanduanes The Happy Island.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Snapshots.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media5": {
@@ -1490,7 +1471,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "features3-19"
+          "_anchor": "features3-1e"
         },
         {
           "_styles": {
@@ -1561,7 +1542,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Snapshots.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6P's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Placement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Passion</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1686,7 +1667,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRB 2016: A Case Study</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Snapshots.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6P's</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Placement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Snapshots.html\" aria-expanded=\"false\">Passion</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1760,6 +1741,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/downhill-skate-2014-poster-700x354-700x354.jpg",
+                "image": "@PROJECT_PATH@/assets/images/downhill-skate-2014-poster-700x354.jpg",
+                "caption": "Downhill Skate Competition Poster CRB 2014",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/surfing-comp-2014-poster-960x486-800x405.jpg",
+                "image": "@PROJECT_PATH@/assets/images/surfing-comp-2014-poster-960x486.jpg",
+                "caption": "Surfing Competition Poster CRB 2014",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/from-instagram-601x265-601x265.png",
                 "image": "@PROJECT_PATH@/assets/images/from-instagram-601x265.png",
                 "caption": "Events of CRB 2014",
@@ -1771,20 +1774,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/from-ig-931x591-800x507.png",
-                "image": "@PROJECT_PATH@/assets/images/from-ig-931x591.png",
-                "caption": "A Tribute for Ezra",
+                "thumb": "@PROJECT_PATH@/assets/images/ezraefondo-surf4ezra-612x792-612x792.png",
+                "image": "@PROJECT_PATH@/assets/images/ezraefondo-surf4ezra-612x792.png",
+                "caption": "Surf4Ezra poster",
                 "active": false,
                 "alt": ""
               },
               {
-                "tags": "CRB 2016",
+                "tags": "CRB 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ezraefondo-surf4ezra-612x792-612x792.png",
-                "image": "@PROJECT_PATH@/assets/images/ezraefondo-surf4ezra-612x792.png",
-                "caption": "Surf4Ezra poster",
+                "thumb": "@PROJECT_PATH@/assets/images/from-ig-931x591-800x507.png",
+                "image": "@PROJECT_PATH@/assets/images/from-ig-931x591.png",
+                "caption": "A Tribute for Ezra",
                 "active": false,
                 "alt": ""
               },
@@ -1807,6 +1810,61 @@
                 "thumb": "@PROJECT_PATH@/assets/images/catanduanes-reef-break-1200x1600-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/catanduanes-reef-break-1200x1600.jpg",
                 "caption": "Event Poster of CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/download-318x159-318x159.jpg",
+                "image": "@PROJECT_PATH@/assets/images/download-318x159.jpg",
+                "caption": "Event Poster of CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2015-poster-960x663-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/crb-2015-poster-960x663.jpg",
+                "caption": "Event Poster of CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/surfing-comp-2015-poster-960x480-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/surfing-comp-2015-poster-960x480.jpg",
+                "caption": "Surfing Competition Poster CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2015-surf-competition-poster-696x348-696x348.jpg",
+                "image": "@PROJECT_PATH@/assets/images/crb-2015-surf-competition-poster-696x348.jpg",
+                "caption": "Downhill Skate Competition Poster CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/surf-clinic-2014-poster-315x160-315x160.jpg",
+                "image": "@PROJECT_PATH@/assets/images/surf-clinic-2014-poster-315x160.jpg",
+                "caption": "Surf Clinic Poster CRB 2014",
                 "active": false,
                 "alt": ""
               },
@@ -1848,9 +1906,185 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-4-500x667-500x667.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-4-500x667.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-2-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-2-800x600.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-3-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-3-800x600.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-5-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-5-800x600.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-7-600x800-600x800.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-7-600x800.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-6-864x648-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-6-864x648.png",
+                "caption": "RFID Scanning",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dscn5835-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dscn5835-2000x1500.jpg",
                 "caption": "RFID Scanning",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-9-800x450-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-9-800x450.png",
+                "caption": "RFID Scanning",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/registration-1-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/registration-1-800x600.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-13-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-13-800x600.png",
+                "caption": "CRB 2016 Registration",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-12-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-12-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-3-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-3-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-2-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-2-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-4-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-4-800x600.png",
+                "caption": "CRB 2016 Booth",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-5-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-5-800x600.png",
+                "caption": "CRB 2016 Booth",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-6-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-6-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-1-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-1-800x600.png",
+                "caption": "CRB 2016 Booth",
                 "active": false,
                 "alt": ""
               },
@@ -1881,10 +2115,21 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1500.jpg",
-                "caption": "Memories of CRB 2015 Displayed at Cafe De Au",
-                "active": true,
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-11-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-11-800x600.png",
+                "caption": "CRB 2014 Giveaways",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-morning-10-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-morning-10-800x600.png",
+                "caption": "CRB 2014 Giveaways",
+                "active": false,
                 "alt": ""
               },
               {
@@ -1894,7 +2139,62 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
-                "caption": "Some of the Performers of CRB 2016",
+                "caption": "Some Performers of CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1500.jpg",
+                "caption": "Memories from CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-20162-700x525-700x525.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-20162-700x525.png",
+                "caption": "Memories from CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crb-2016-700x525-700x525.png",
+                "image": "@PROJECT_PATH@/assets/images/crb-2016-700x525.png",
+                "caption": "Memories from CRB 2015",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn5895-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/dscn5895-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn5890-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/dscn5890-800x600.png",
+                "caption": "CRB 2016",
                 "active": false,
                 "alt": ""
               },
@@ -1914,31 +2214,64 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3941-3-450x800-450x800.png",
+                "image": "@PROJECT_PATH@/assets/images/img-3941-3-450x800.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3974-500x889-500x889.png",
+                "image": "@PROJECT_PATH@/assets/images/img-3974-500x889.png",
+                "caption": "DJ Angel Villaronte",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3970-750x563-750x563.png",
+                "image": "@PROJECT_PATH@/assets/images/img-3970-750x563.png",
+                "caption": "DJ Angel Villaronte",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3930-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/img-3930-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3983-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/img-3983-800x600.png",
+                "caption": "CRB 2016",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/crb2016-awarding-skate-competition2-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/crb2016-awarding-skate-competition2-2000x1500.jpg",
                 "caption": "CRB2016: Awarding Skate Competition",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "CRB 2016",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752-800x426.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752.jpg",
-                "caption": "Jeck Pilpil",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "CRB 2016",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chongkeys-1409x817-800x463.jpg",
-                "image": "@PROJECT_PATH@/assets/images/chongkeys-1409x817.jpg",
-                "caption": "CRB 2016 Logo",
                 "active": false,
                 "alt": ""
               },
@@ -1958,9 +2291,31 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752-800x426.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jeck-pilapil-1411x752.jpg",
+                "caption": "Jeck Pilpil &amp; Peace Pipes",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chongkeys-1409x817-800x463.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chongkeys-1409x817.jpg",
+                "caption": "The Chongkeys",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "CRB 2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/crb2016-awarding-surf-competition31-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/crb2016-awarding-surf-competition31-2000x1500.jpg",
-                "caption": "CRB 2016 Giveaways",
+                "caption": "CRB 2016 Giveaways from Sponsors",
                 "active": false,
                 "alt": ""
               },
@@ -2018,6 +2373,39 @@
                 "caption": "&nbsp;Interivew with Vice Governor Shy Abundo",
                 "active": false,
                 "alt": ""
+              },
+              {
+                "tags": "Interviews",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interview-860x645-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/interview-860x645.png",
+                "caption": " Interivew with Vice Governor Shy Abundo",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Interviews",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13335820-10204662473121802-8276778462327381488-n-960x720-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13335820-10204662473121802-8276778462327381488-n-960x720.jpg",
+                "caption": "Interview with Jayson Tayamora",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Interviews",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8-2000x1500.jpg",
+                "caption": "Interview with Vice Chair for Tourism Vincent Villaluna",
+                "active": true,
+                "alt": ""
               }
             ]
           },
@@ -2034,98 +2422,6 @@
         "order": 5
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f1e718!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRB 2016: A Case Study</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-p\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">CREDITS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-x"
-        },
         {
           "_name": "footer1",
           "_params": {
@@ -2172,7 +2468,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2188,14 +2484,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/author-aguilar-1-250x254.png",
+              "src": "@PROJECT_PATH@/assets/images/author-sanchez-250x254.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -2218,8 +2513,7 @@
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -2250,9 +2544,9 @@
               "active": true
             }
           },
-          "title1": "&nbsp;Ms. Maria Cristina M. Aguilar",
+          "title1": "Ms. Lysa J. Sanchez",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ms. Aguilar currently works as a Program Manager for Magsaysay Learning. She was the former Program Coordinator of the Asian Institute of Management – Dr. Andrew L. Tan Center for Tourism. Prior to her work at the institute, she was a Marketing and Events Officer at the French Chamber of Commerce in the Philippines, a Marketing Executive at the Sun Microsystems Philippines, a Database Marketing Specialist with IBM Harte-Hanks Philippines, and as a Technical Assistant for the Program Management Office of the Supreme Court of the Philippines. She obtained her degree in AB Mass Communications from the Pamantasan ng Lungsod ng Maynila",
+          "caption1": "Ms. Sanchez is a Part-time Lecturer at the Marketing Management Department of De La Salle University, a Travel Consultant at LJS Pleasures Travel &amp; Tour Services, and a Sales and Management Consultant for the Philippine Center For Environmental Protection And Sustainable Development, Inc (PCEPSDI). She has proven her ability to provide consultancy and research services through her meaningful engagements with a range of institutions, organizations, and private businesses specializing on themes related to sales and marketing, travel and tourism, events management, and business development. Through her expertise, she became a sought-after speaker for several television and radio guestings. She obtained her degree in Master of Marketing Communications at De La Salle University",
           "title2": "&nbsp;Ms. Jhona S. Camba",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Ms. Camba is the Program Development and Marketing Specialist in External Relations and Internationalization Office (ERIO) of De La Salle University. Prior to her current role, she served as the Marketing Associate for Inkwise, Administrative Assistant and Event Coordinator for Asia Pacific Business Innovation and Technology Management Society (APBITM), Asia Pacific Roundtable Consumption and Production (APRSCP) and the Center for Engineering Sustainable and Sustainable Development Research (DLSU-CESDR), and Research Assistant for Cleaner Production Project under the United Nations",
@@ -2323,6 +2617,56 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-14"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "6P's",
+        "order": 6
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Catanduanes Reef Break",
+          "_anchor": "footer1-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "Site Under Maintenance",
+          "meta": "Come again after a while",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f"
         }
       ]
     }
