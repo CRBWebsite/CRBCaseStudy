@@ -902,6 +902,9 @@ h6,
 #header3-28 .mbr-section-subtitle {
   color: #292929;
 }
+#features3-4x H5 {
+  color: #292929;
+}
 #msg-box2-2n .mbr-section-title {
   color: #fff;
 }
@@ -921,6 +924,7 @@ h6,
 #features3-2e H5 {
   text-align: center;
 }
+
 
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
@@ -999,12 +1003,29 @@ h6,
 #header3-2q .mbr-section-subtitle {
   color: #292929;
 }
+#features3-4z H5 {
+  color: #292929;
+}
 #msg-box2-2o .mbr-section-title {
   color: #fff;
 }
 #msg-box2-2o .mbr-section-subtitle {
   color: #c1c1c1;
 }
+#header3-56 .mbr-section-title,
+#header3-56 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-56 SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-56 .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-57 H5 {
+  text-align: center;
+}
+
 
 #header3-2z .mbr-section-title,
 #header3-2z .mbr-section-subtitle {
@@ -1014,6 +1035,12 @@ h6,
   font-family: 'Lora', serif;
 }
 #header3-2z .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-51 H5 {
+  color: #292929;
+}
+#features3-52 H5 {
   color: #292929;
 }
 #msg-box2-2v .mbr-section-title {
@@ -1089,6 +1116,20 @@ h6,
 #menu-1t .close-icon::after {
   background-color: #ffffff;
 }
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-58 SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-58 .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-59 H5 {
+  text-align: center;
+}
+
 
 #menu-1p .hide-buttons .nav-btn {
   display: none !important;
@@ -1167,11 +1208,27 @@ h6,
 #header3-30 .mbr-section-subtitle {
   color: #292929;
 }
+#features3-53 H5 {
+  color: #292929;
+}
 #msg-box2-31 .mbr-section-title {
   color: #fff;
 }
 #msg-box2-31 .mbr-section-subtitle {
   color: #c1c1c1;
+}
+#header3-5m .mbr-section-title,
+#header3-5m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5m SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-5m .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-5n H5 {
+  text-align: center;
 }
 
 #header3-34 .mbr-section-title,
@@ -1182,6 +1239,9 @@ h6,
   font-family: 'Lora', serif;
 }
 #header3-34 .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-55 H5 {
   color: #292929;
 }
 #menu-1r .hide-buttons .nav-btn {
@@ -1257,6 +1317,7 @@ h6,
 #msg-box2-37 .mbr-section-subtitle {
   color: #c1c1c1;
 }
+
 
 #menu-1l .hide-buttons .nav-btn {
   display: none !important;
@@ -1338,7 +1399,7 @@ h6,
 #features3-3d H5 {
   color: #292929;
 }
-#features3-4l H5 {
+#features3-5p H5 {
   color: #292929;
 }
 #msg-box2-3b .mbr-section-title {
@@ -1346,6 +1407,19 @@ h6,
 }
 #msg-box2-3b .mbr-section-subtitle {
   color: #c1c1c1;
+}
+#header3-5r .mbr-section-title,
+#header3-5r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5r SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-5r .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-5q H5 {
+  text-align: center;
 }
 #menu-29 .hide-buttons .nav-btn {
   display: none !important;
@@ -1402,7 +1476,7 @@ h6,
 }
 #menu-29 .link[aria-expanded="true"],
 #menu-29 .dropdown-item[aria-expanded="true"] {
-  color: #f1e718!important;
+  color: #d6a623!important;
 }
 #menu-29.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -2264,5 +2338,109 @@ h6,
   font-family: 'Lora', serif;
 }
 #features3-4u H5 {
+  text-align: center;
+}
+
+
+#header3-5d .mbr-section-title,
+#header3-5d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5d SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-5d .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-5e H5 {
+  color: #292929;
+}
+#features3-5f H5 {
+  color: #292929;
+}
+#msg-box2-5g .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-5g .mbr-section-subtitle {
+  color: #c1c1c1;
+}
+#menu-5h .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5h .navbar-caption {
+  color: #ffffff;
+}
+#menu-5h .navbar-toggler {
+  color: #ffffff;
+}
+#menu-5h .link,
+#menu-5h .dropdown-item {
+  color: #ffffff;
+}
+#menu-5h .link {
+  font-size: 0.6rem;
+}
+#menu-5h .dropdown-item,
+#menu-5h .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-5h .link:hover,
+#menu-5h .dropdown-item:hover,
+#menu-5h .link:focus,
+#menu-5h .dropdown-item:focus {
+  color: #d6a623;
+}
+#menu-5h .link[aria-expanded="true"],
+#menu-5h .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-5h .nav-dropdown-sm .link:focus,
+#menu-5h .nav-dropdown-sm .link:hover,
+#menu-5h .nav-dropdown-sm .dropdown-item:focus,
+#menu-5h .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-5h .navbar,
+#menu-5h .nav-dropdown-sm,
+#menu-5h .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5h .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-5h .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-5h .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5h .bg-color.transparent.opened .link:hover,
+#menu-5h .bg-color.transparent.opened .link:focus {
+  color: #d6a623;
+}
+#menu-5h .link[aria-expanded="true"],
+#menu-5h .dropdown-item[aria-expanded="true"] {
+  color: #d6a623!important;
+}
+#menu-5h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-5h .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5h .close-icon::before,
+#menu-5h .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-5j .mbr-section-title,
+#header3-5j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5j SMALL {
+  font-family: 'Lora', serif;
+}
+#header3-5j .mbr-section-subtitle {
+  color: #292929;
+}
+#features3-5k H5 {
   text-align: center;
 }
