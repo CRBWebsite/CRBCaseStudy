@@ -3494,7 +3494,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tia_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/tia-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3587,7 +3587,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chongkeys_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/chongkeys-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3599,7 +3599,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gladiola%20lola_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gladiola-lola-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4253,7 +4253,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/ate%20ai_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/ate-ai-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4276,7 +4276,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mango%20shake%20vendor_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/mango-shake-vendor-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4288,7 +4288,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/gallery_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller42.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4562,7 +4562,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/2014_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller43.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4573,7 +4573,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/banner.gif",
+              "src": "@PROJECT_PATH@/assets/images/banner.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4584,7 +4584,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/cthi_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller44.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4595,7 +4595,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller45.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4733,7 +4733,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/jayson_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/jayson-smaller46.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4757,7 +4757,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/carlo%20adrian%20den%20aquino_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/carlo-adrian-den-aquino-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4769,7 +4769,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller45.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5283,7 +5283,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/genesis_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/genesis-smaller47.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5295,7 +5295,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/vhince_.gif",
+              "src": "@PROJECT_PATH@/assets/images/vhince-48.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5307,7 +5307,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vice%20gov%20jose%20teves%20jr_.gif",
+              "src": "@PROJECT_PATH@/assets/images/vice-gov-jose-teves-jr-.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5408,7 +5408,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/reymond_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/reymond-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5420,7 +5420,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mango%20shake%20vendor_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/mango-shake-vendor-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5432,7 +5432,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller45.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5735,7 +5735,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/2014_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/2014-smaller43.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5746,7 +5746,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/banner.gif",
+              "src": "@PROJECT_PATH@/assets/images/banner.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5757,7 +5757,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/cthi_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/cthi-smaller44.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5768,7 +5768,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller45.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8465,7 +8465,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@assets/images/tia_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/tia-smaller49.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8557,7 +8557,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chongkeys_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/chongkeys-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8569,7 +8569,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gladiola%20lola_smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/gladiola-lola-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
