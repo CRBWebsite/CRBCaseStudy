@@ -2463,7 +2463,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery-smaller1.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller2.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
