@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "People.html",
+    "currentPage": "Price.html",
     "name": "CRB 2017",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 208,
-    "versionPublish": "4.7.6",
+    "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/images-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -2463,11 +2463,11 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ate-ai-smaller0.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller1.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "AteAi.html",
+              "link": "Snapshots",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -4264,11 +4264,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/genesis-smaller.gif",
+              "src": "@PROJECT_PATH@/assets/images/joseph-smaller.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "GenesisE.html",
+              "link": "https://www.youtube.com/watch?v=vJNi_AQ3gOY&t=1s",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -4320,11 +4320,11 @@
           "title1": "<p>Ate Aireen</p>",
           "subtitle1": "Manager, Majectic <br>Puraran Beach Resort",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"GenesisE.html\" target=\"_blank\" class=\"text-warning\">B</a>alau",
-          "subtitle2": "Description",
+          "title2": "Joseph Amara",
+          "subtitle2": "Surf Manager, Puraran Beach Resort",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"VinceV.html\" target=\"_blank\" class=\"text-warning\">M</a>ango Shake Vendor",
-          "subtitle3": "Description",
+          "title3": "Mae Anne Dizon",
+          "subtitle3": "Fruit Shake Vendor, CRB 2016",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "More Photos",
           "subtitle4": "Description",
