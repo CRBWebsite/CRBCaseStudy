@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Price.html",
+    "currentPage": "index.html",
     "name": "CRB 2017",
     "theme": {
       "name": "mobirise3",
@@ -27,8 +27,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 208,
-    "versionPublish": "4.8.1",
+    "uniqCompNum": 209,
+    "versionPublish": "4.8.7",
     "favicon": "@PROJECT_PATH@/assets/images/images-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -303,7 +303,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRB 2016: A Case Study</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4q\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"6Ps.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">&nbsp;FRAMEWORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Place.html\" aria-expanded=\"false\">Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Process.html\" aria-expanded=\"false\">Process</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Price.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Promotion.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"People.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"6Ps.html\" aria-expanded=\"false\">All</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">&nbsp;CREDITS TO AUTHORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Started.html\">HOW IT ALL STARTED</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"CRB 2016.html\" aria-expanded=\"false\">CRB 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4q\">Jayson Tayamora</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4r\">Genesis Efondo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CRB 2016.html#msg-box7-4s\" aria-expanded=\"false\">Vince Vicente Villaluna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catanduanes The Happy Island.html\" aria-expanded=\"false\">CATANDUANES: THE HAPPY ISLAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Snapshots.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"6Ps.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">&nbsp;FRAMEWORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Place.html\" aria-expanded=\"false\">Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Process.html\" aria-expanded=\"false\">Process</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html\" aria-expanded=\"false\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Price.html\" aria-expanded=\"false\">Price</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Promotion.html\" aria-expanded=\"false\">Promotion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"People.html\" aria-expanded=\"false\">People</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"6Ps.html\" aria-expanded=\"false\">All</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Credits.html\" aria-expanded=\"false\">&nbsp;CREDITS TO AUTHORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1050,7 +1050,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f1e718!important"
+              "color": "#d6a623!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1125,12 +1125,12 @@
           "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "spacing": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": true,
+            "bgColor": "#efefef",
+            "showText": false,
             "filter": true,
             "images": [
               {
@@ -1141,7 +1141,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/crb-venue-630x339-630x339.jpg",
                 "image": "@PROJECT_PATH@/assets/images/crb-venue-630x339.jpg",
                 "caption": "CRB 2014 venue",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -1834,7 +1834,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-8-2000x1500.jpg",
                 "caption": "Interview with Vice Chair for Tourism Vincent Villaluna",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
@@ -2463,7 +2463,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gallery-smaller2.gif",
+              "src": "@PROJECT_PATH@/assets/images/gallery-smaller0.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
